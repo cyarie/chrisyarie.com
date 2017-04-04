@@ -1,0 +1,14 @@
+@import "./variables.scss";
+
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: $f-stack;
+  color: $f-color;
+}
+
+div.row > .content {
+  padding-top: 1%;
+}
