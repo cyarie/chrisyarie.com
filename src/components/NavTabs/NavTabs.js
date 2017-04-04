@@ -6,10 +6,6 @@ import WorkWithMe from '../WorkWithMe/WorkWithMe';
 import './NavTabs.scss';
 
 class HomeNavTabs extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <Tabs defaultActiveKey={1} id="nav-tabs">
