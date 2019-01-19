@@ -3,9 +3,22 @@ const ResumeData = {
     {
       header: {
         employer: 'Aledade, Inc.',
+        job: 'Senior Software Engineer',
+        location: 'Bethesda, MD',
+        when: 'September 2018 - Present',
+        description: [
+          `Along with a cross-functional team of designers, project managers, other engineers, and stakeholders,
+           I worked as the lead UI/UX engineer to develop a strategic planning tool used by all of
+           Aledade's 19 -- and growing -- ACOs to make prioritization decisions around how to best achieve savings.`
+        ]
+      }
+    },
+    {
+      header: {
+        employer: 'Aledade, Inc.',
         job: 'Software Developer',
         location: 'Bethesda, MD',
-        when: 'September 2016 - Present'
+        when: 'September 2016 - September 2018'
       },
       description: [
         `Designed and implemented much of the Aledade app’s new front-end assets build system, which resulted 
