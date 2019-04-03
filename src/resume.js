@@ -6,12 +6,12 @@ const ResumeData = {
         job: 'Senior Software Engineer',
         location: 'Bethesda, MD',
         when: 'September 2018 - Present',
-        description: [
-          `Along with a cross-functional team of designers, project managers, other engineers, and stakeholders,
+      },
+      description: [
+        `Along with a cross-functional team of designers, project managers, other engineers, and stakeholders,
            I worked as the lead UI/UX engineer to develop a strategic planning tool used by all of
            Aledade's 19 -- and growing -- ACOs to make prioritization decisions around how to best achieve savings.`
-        ]
-      }
+      ]
     },
     {
       header: {
